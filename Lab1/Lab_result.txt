@@ -1,0 +1,204 @@
+Param lr=0.002, momentum=0.9 {
+ [1] loss: 2.096, val_loss: 1.454
+ [2] loss: 1.229, val_loss: 1.105
+ [3] loss: 0.922, val_loss: 0.840
+ [4] loss: 0.711, val_loss: 0.758
+ [5] loss: 0.556, val_loss: 0.685
+ [6] loss: 0.424, val_loss: 0.704
+ [7] loss: 0.299, val_loss: 0.727
+ [8] loss: 0.210, val_loss: 0.829
+ [9] loss: 0.156, val_loss: 0.892
+ [10] loss: 0.124, val_loss: 1.050
+ [11] loss: 0.100, val_loss: 1.051
+ [12] loss: 0.084, val_loss: 1.134
+ [13] loss: 0.075, val_loss: 1.007
+ [14] loss: 0.056, val_loss: 1.346
+ [15] loss: 0.057, val_loss: 1.093
+ [16] loss: 0.040, val_loss: 1.158
+ [17] loss: 0.046, val_loss: 1.210
+ [18] loss: 0.037, val_loss: 1.226
+ [19] loss: 0.041, val_loss: 1.360
+ [20] loss: 0.034, val_loss: 1.230
+ [21] loss: 0.020, val_loss: 1.534
+ [22] loss: 0.032, val_loss: 1.388
+ [23] loss: 0.031, val_loss: 1.275
+ [24] loss: 0.020, val_loss: 1.423
+ [25] loss: 0.029, val_loss: 1.259
+Acc 10000 test images: 78 %
+}
+
+Param lr=0.001, momentum=0.8 {
+ [1] loss: 2.249, val_loss: 1.723
+ [2] loss: 1.525, val_loss: 1.361
+ [3] loss: 1.319, val_loss: 1.222
+ [4] loss: 1.135, val_loss: 1.088
+ [5] loss: 0.969, val_loss: 0.956
+ [6] loss: 0.817, val_loss: 0.815
+ [7] loss: 0.684, val_loss: 0.788
+ [8] loss: 0.553, val_loss: 0.740
+ [9] loss: 0.426, val_loss: 0.741
+ [10] loss: 0.303, val_loss: 0.795
+ [11] loss: 0.203, val_loss: 0.848
+ [12] loss: 0.138, val_loss: 0.893
+ [13] loss: 0.096, val_loss: 1.081
+ [14] loss: 0.072, val_loss: 1.000
+ [15] loss: 0.057, val_loss: 1.136
+ [16] loss: 0.045, val_loss: 1.146
+ [17] loss: 0.034, val_loss: 1.145
+ [18] loss: 0.032, val_loss: 1.277
+ [19] loss: 0.025, val_loss: 1.319
+ [20] loss: 0.023, val_loss: 1.318
+ [21] loss: 0.019, val_loss: 1.330
+ [22] loss: 0.012, val_loss: 1.332
+ [23] loss: 0.016, val_loss: 1.399
+ [24] loss: 0.013, val_loss: 1.294
+ [25] loss: 0.015, val_loss: 1.492
+Acc 10000 test images: 76 %
+}
+
+Param : LR=0.0005, Momentum=0.98 {
+ [1] loss: 2.295, val_loss: 1.527
+ [2] loss: 1.347, val_loss: 1.244
+ [3] loss: 1.079, val_loss: 1.074
+ [4] loss: 0.848, val_loss: 0.957
+ [5] loss: 0.647, val_loss: 0.923
+ [6] loss: 0.464, val_loss: 0.939
+ [7] loss: 0.318, val_loss: 1.081
+ [8] loss: 0.229, val_loss: 1.176
+ [9] loss: 0.173, val_loss: 1.309
+ [10] loss: 0.143, val_loss: 1.507
+ [11] loss: 0.108, val_loss: 1.393
+ [12] loss: 0.103, val_loss: 1.432
+ [13] loss: 0.077, val_loss: 1.782
+ [14] loss: 0.069, val_loss: 1.771
+ [15] loss: 0.062, val_loss: 1.790
+ [16] loss: 0.053, val_loss: 1.696
+ [17] loss: 0.059, val_loss: 1.698
+ [18] loss: 0.054, val_loss: 1.754
+ [19] loss: 0.044, val_loss: 1.848
+ [20] loss: 0.041, val_loss: 1.726
+ [21] loss: 0.045, val_loss: 1.988
+ [22] loss: 0.048, val_loss: 1.746
+ [23] loss: 0.040, val_loss: 1.893
+ [24] loss: 0.035, val_loss: 1.987
+ [25] loss: 0.041, val_loss: 1.830
+[INFO] Finished Training
+Acc 10000 test images: 70 %
+}
+
+Param : LR=0.0005, Momentum=0.7 {
+ [1] loss: 2.870, val_loss: 1.969
+ [2] loss: 1.836, val_loss: 1.697
+ [3] loss: 1.633, val_loss: 1.556
+ [4] loss: 1.517, val_loss: 1.431
+ [5] loss: 1.420, val_loss: 1.339
+ [6] loss: 1.321, val_loss: 1.324
+ [7] loss: 1.227, val_loss: 1.190
+ [8] loss: 1.133, val_loss: 1.129
+ [9] loss: 1.045, val_loss: 1.093
+ [10] loss: 0.962, val_loss: 0.997
+ [11] loss: 0.883, val_loss: 1.025
+ [12] loss: 0.795, val_loss: 1.005
+ [13] loss: 0.709, val_loss: 0.981
+ [14] loss: 0.617, val_loss: 0.917
+ [15] loss: 0.521, val_loss: 0.979
+ [16] loss: 0.422, val_loss: 0.995
+ [17] loss: 0.325, val_loss: 1.023
+ [18] loss: 0.238, val_loss: 1.093
+ [19] loss: 0.175, val_loss: 1.239
+ [20] loss: 0.122, val_loss: 1.287
+ [21] loss: 0.093, val_loss: 1.273
+ [22] loss: 0.066, val_loss: 1.445
+ [23] loss: 0.055, val_loss: 1.472
+ [24] loss: 0.038, val_loss: 1.561
+ [25] loss: 0.028, val_loss: 1.593
+Acc 10000 test images: 71 %
+}
+[INFO] Param : LR=0.0025, Momentum=0.85 {
+ [1] loss: 1.998, val_loss: 1.435
+ [2] loss: 1.240, val_loss: 1.107
+ [3] loss: 0.925, val_loss: 0.893
+ [4] loss: 0.715, val_loss: 0.849
+ [5] loss: 0.559, val_loss: 0.722
+ [6] loss: 0.418, val_loss: 0.653
+ [7] loss: 0.294, val_loss: 0.751
+ [8] loss: 0.200, val_loss: 0.872
+ [9] loss: 0.152, val_loss: 0.899
+ [10] loss: 0.112, val_loss: 1.042
+ [11] loss: 0.089, val_loss: 0.924
+ [12] loss: 0.078, val_loss: 1.098
+ [13] loss: 0.063, val_loss: 1.078
+ [14] loss: 0.061, val_loss: 1.170
+ [15] loss: 0.048, val_loss: 1.040
+ [16] loss: 0.033, val_loss: 1.223
+ [17] loss: 0.042, val_loss: 1.053
+ [18] loss: 0.034, val_loss: 1.196
+ [19] loss: 0.027, val_loss: 1.113
+ [20] loss: 0.026, val_loss: 1.229
+ [21] loss: 0.027, val_loss: 1.163
+ [22] loss: 0.020, val_loss: 1.268
+ [23] loss: 0.029, val_loss: 1.325
+ [24] loss: 0.025, val_loss: 1.410
+ [25] loss: 0.025, val_loss: 1.293
+[INFO] Finished Training
+Acc 10000 test images: 78 %
+}
+
+Param : LR=0.0005, Momentum=0.9 {
+ [1] loss: 2.346, val_loss: 1.662
+ [2] loss: 1.537, val_loss: 1.408
+ [3] loss: 1.311, val_loss: 1.239
+ [4] loss: 1.119, val_loss: 1.056
+ [5] loss: 0.953, val_loss: 0.950
+ [6] loss: 0.800, val_loss: 0.933
+ [7] loss: 0.663, val_loss: 0.765
+ [8] loss: 0.533, val_loss: 0.838
+ [9] loss: 0.409, val_loss: 0.759
+ [10] loss: 0.282, val_loss: 0.862
+ [11] loss: 0.193, val_loss: 0.877
+ [12] loss: 0.123, val_loss: 0.951
+ [13] loss: 0.088, val_loss: 1.001
+ [14] loss: 0.065, val_loss: 1.171
+ [15] loss: 0.051, val_loss: 1.283
+ [16] loss: 0.035, val_loss: 1.384
+ [17] loss: 0.044, val_loss: 1.154
+ [18] loss: 0.024, val_loss: 1.264
+ [19] loss: 0.016, val_loss: 1.332
+ [20] loss: 0.024, val_loss: 1.333
+ [21] loss: 0.020, val_loss: 1.455
+ [22] loss: 0.011, val_loss: 1.454
+ [23] loss: 0.016, val_loss: 1.381
+ [24] loss: 0.014, val_loss: 1.454
+ [25] loss: 0.009, val_loss: 1.388
+[INFO] Finished Training
+Acc 10000 test images: 78 %
+}
+
+Param : LR=0.00085, Momentum=0.9 {
+ [1] loss: 2.144, val_loss: 1.560
+ [2] loss: 1.416, val_loss: 1.260
+ [3] loss: 1.145, val_loss: 1.108
+ [4] loss: 0.907, val_loss: 0.852
+ [5] loss: 0.733, val_loss: 0.731
+ [6] loss: 0.585, val_loss: 0.750
+ [7] loss: 0.451, val_loss: 0.710
+ [8] loss: 0.319, val_loss: 0.738
+ [9] loss: 0.201, val_loss: 0.858
+ [10] loss: 0.139, val_loss: 1.000
+ [11] loss: 0.096, val_loss: 0.997
+ [12] loss: 0.073, val_loss: 0.990
+ [13] loss: 0.062, val_loss: 1.043
+ [14] loss: 0.054, val_loss: 1.044
+ [15] loss: 0.039, val_loss: 1.165
+ [16] loss: 0.026, val_loss: 1.405
+ [17] loss: 0.027, val_loss: 1.278
+ [18] loss: 0.021, val_loss: 1.307
+ [19] loss: 0.021, val_loss: 1.293
+ [20] loss: 0.026, val_loss: 1.233
+ [21] loss: 0.017, val_loss: 1.270
+ [22] loss: 0.021, val_loss: 1.257
+ [23] loss: 0.022, val_loss: 1.240
+ [24] loss: 0.017, val_loss: 1.187
+ [25] loss: 0.015, val_loss: 1.465
+Acc 10000 test images: 78 %
+}

@@ -1,0 +1,54 @@
+[INFO] Param : LR=0.002, Momentum=0.9
+[INFO] : GPU Found. Using CUDA as preferred device.
+ [1]	loss: 2.111, train_data ACC : 49 %
+		val_loss: 1.416, val_data ACC : 48 %
+ [2]	loss: 1.238, train_data ACC : 66 %
+		val_loss: 1.008, val_data ACC : 63 %
+ [3]	loss: 0.909, train_data ACC : 73 %
+		val_loss: 0.877, val_data ACC : 70 %
+ [4]	loss: 0.712, train_data ACC : 82 %
+		val_loss: 0.713, val_data ACC : 75 %
+ [5]	loss: 0.553, train_data ACC : 85 %
+		val_loss: 0.709, val_data ACC : 75 %
+ [6]	loss: 0.417, train_data ACC : 88 %
+		val_loss: 0.772, val_data ACC : 75 %
+ [7]	loss: 0.292, train_data ACC : 94 %
+		val_loss: 0.704, val_data ACC : 78 %
+ [8]	loss: 0.210, train_data ACC : 95 %
+		val_loss: 0.798, val_data ACC : 78 %
+ [9]	loss: 0.158, train_data ACC : 96 %
+		val_loss: 0.891, val_data ACC : 77 %
+ [10]	loss: 0.113, train_data ACC : 98 %
+		val_loss: 0.936, val_data ACC : 78 %
+ [11]	loss: 0.104, train_data ACC : 98 %
+		val_loss: 0.920, val_data ACC : 78 %
+ [12]	loss: 0.077, train_data ACC : 97 %
+		val_loss: 1.071, val_data ACC : 77 %
+ [13]	loss: 0.081, train_data ACC : 98 %
+		val_loss: 1.238, val_data ACC : 78 %
+ [14]	loss: 0.053, train_data ACC : 98 %
+		val_loss: 0.993, val_data ACC : 78 %
+ [15]	loss: 0.051, train_data ACC : 98 %
+		val_loss: 1.222, val_data ACC : 78 %
+ [16]	loss: 0.047, train_data ACC : 99 %
+		val_loss: 1.118, val_data ACC : 78 %
+ [17]	loss: 0.042, train_data ACC : 99 %
+		val_loss: 1.106, val_data ACC : 79 %
+ [18]	loss: 0.039, train_data ACC : 99 %
+		val_loss: 1.208, val_data ACC : 79 %
+ [19]	loss: 0.045, train_data ACC : 99 %
+		val_loss: 1.199, val_data ACC : 79 %
+ [20]	loss: 0.034, train_data ACC : 99 %
+		val_loss: 1.240, val_data ACC : 79 %
+ [21]	loss: 0.029, train_data ACC : 98 %
+		val_loss: 1.447, val_data ACC : 78 %
+ [22]	loss: 0.033, train_data ACC : 99 %
+		val_loss: 1.317, val_data ACC : 78 %
+ [23]	loss: 0.022, train_data ACC : 99 %
+		val_loss: 1.237, val_data ACC : 79 %
+ [24]	loss: 0.021, train_data ACC : 99 %
+		val_loss: 1.269, val_data ACC : 79 %
+ [25]	loss: 0.019, train_data ACC : 99 %
+		val_loss: 1.459, val_data ACC : 78 %
+[INFO] Finished Training
+ Test set ACC : 78 %
