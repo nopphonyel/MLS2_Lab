@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6943a9d6-75bc-43c1-96cc-9be84b7fa17e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lab2-4-handmade_se-cifar10.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab2-4-handmade_se-cifar10.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1XKaUMnWr4Fq2CP4r5jXJ4yJ9lR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.lab2-4-handmade_se-cifar10">
+    <configuration name="lab2-1-reset-net-test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lab2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab2-1-reset-net-test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab2-2-rest-net-train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lab2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab2-2-rest-net-train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab2-3-alexresnet-cifar10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lab2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab2-3-alexresnet-cifar10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lab2-4-handmade_se-cifar10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Lab2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab2-4-handmade_se-cifar10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lab2-4-handmade_se-cifar10" />
+        <item itemvalue="Python.lab2-2-rest-net-train" />
+        <item itemvalue="Python.lab2-3-alexresnet-cifar10" />
+        <item itemvalue="Python.lab2-1-reset-net-test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6943a9d6-75bc-43c1-96cc-9be84b7fa17e" name="Default Changelist" comment="" />
+      <created>1580797254765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580797254765</updated>
+      <workItem from="1580797256579" duration="14106000" />
+      <workItem from="1581076542650" duration="977000" />
+      <workItem from="1581222121591" duration="7765000" />
+      <workItem from="1581276222610" duration="3256000" />
+      <workItem from="1581315609335" duration="43000" />
+      <workItem from="1581315669031" duration="73000" />
+      <workItem from="1581315923818" duration="1604000" />
+      <workItem from="1581322909997" duration="91000" />
+      <workItem from="1581323061693" duration="469000" />
+      <workItem from="1581323550738" duration="367000" />
+      <workItem from="1581323974325" duration="618000" />
+      <workItem from="1581324654845" duration="2831000" />
+      <workItem from="1581342108511" duration="5861000" />
+      <workItem from="1581402860085" duration="164000" />
+      <workItem from="1581405561659" duration="524000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="217" width="1280" height="679" key="#Deployment" timestamp="1580797496961">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="555" y="217" width="1280" height="679" key="#Deployment/0.32.1920.1048@0.32.1920.1048" timestamp="1580797496961" />
+    <state x="553" y="187" width="804" height="669" key="#Notifications" timestamp="1581324461614">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="553" y="187" width="804" height="669" key="#Notifications/0.0.1920.1080@0.0.1920.1080" timestamp="1581324461614" />
+    <state x="352" y="84" width="1331" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581315701819">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="352" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581315701819" />
+    <state x="418" y="214" width="1331" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1580797426505" />
+    <state x="653" y="318" width="604" height="404" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581364120892">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="653" y="318" width="604" height="404" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1581364120892" />
+    <state x="466" y="190" width="742" height="479" key="#com.intellij.tools.ToolEditorDialog" timestamp="1581324023031">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="466" y="190" width="742" height="479" key="#com.intellij.tools.ToolEditorDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581324023031" />
+    <state x="100" y="132" width="1720" height="848" key="DirDiffDialog" timestamp="1581222200120">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="100" y="132" width="1720" height="848" key="DirDiffDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1581222200120" />
+    <state x="737" y="316" width="424" height="486" key="FileChooserDialogImpl" timestamp="1581078557445">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="737" y="316" width="424" height="486" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1581078557445" />
+    <state width="785" height="901" key="GridCell.Tab.0.bottom" timestamp="1581398870484">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="785" height="901" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581398870484" />
+    <state width="788" height="587" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1581320345327" />
+    <state width="785" height="901" key="GridCell.Tab.0.center" timestamp="1581398870483">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="785" height="901" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581398870483" />
+    <state width="788" height="587" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1581320345325" />
+    <state width="785" height="901" key="GridCell.Tab.0.left" timestamp="1581398870482">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="785" height="901" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581398870482" />
+    <state width="788" height="587" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1581320345324" />
+    <state width="785" height="901" key="GridCell.Tab.0.right" timestamp="1581398870483">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="785" height="901" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581398870483" />
+    <state width="788" height="587" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1581320345326" />
+    <state x="320" y="49" width="1313" height="736" key="SettingsEditor" timestamp="1581324490385">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="320" y="49" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1581324490385" />
+    <state x="328" y="157" width="1313" height="736" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1581076747988" />
+    <state x="588" y="158" key="com.intellij.ide.util.TipDialog" timestamp="1581405562283">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="588" y="158" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581405562283" />
+    <state x="610" y="383" key="com.intellij.ide.util.TipDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1581315924964" />
+    <state x="704" y="287" width="501" height="542" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1580797448003">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="704" y="287" width="501" height="542" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.32.1920.1048@0.32.1920.1048" timestamp="1580797448003" />
+    <state x="856" y="209" width="653" height="700" key="ftp.server.browser" timestamp="1580797494242">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="856" y="209" width="653" height="700" key="ftp.server.browser/0.32.1920.1048@0.32.1920.1048" timestamp="1580797494242" />
+    <state x="623" y="238" width="672" height="699" key="search.everywhere.popup" timestamp="1581355644940">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="238" width="672" height="699" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1581355644940" />
+    <state x="623" y="263" width="672" height="678" key="search.everywhere.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1580808209321" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lab2$lab2_3_alexresnet_cifar10.coverage" NAME="lab2-3-alexresnet-cifar10 Coverage Results" MODIFIED="1581222216084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Lab2$lab2.coverage" NAME="lab2-1-reset-net-test Coverage Results" MODIFIED="1580802499612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Lab2$lab2_2_rest_net_train.coverage" NAME="lab2-2-rest-net-train Coverage Results" MODIFIED="1581233028341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Lab2$lab2_4_handmade_se_cifar10.coverage" NAME="lab2-4-handmade_se-cifar10 Coverage Results" MODIFIED="1581385424258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
