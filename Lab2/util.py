@@ -62,6 +62,7 @@ class Trainer:
                             loss = loss1 + 0.4 * loss2
                         else:
                             outputs = self.model(inputs)
+                            print("output:", outputs, "label:", labels)
                             loss = self.criterion(outputs, labels)
 
                         _, preds = torch.max(outputs, 1)

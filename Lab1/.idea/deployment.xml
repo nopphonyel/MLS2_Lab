@@ -5,14 +5,7 @@
       <paths name="root@localhost:12501">
         <serverdata>
           <mappings>
-            <mapping deploy="/root/lab/" local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="root@localhost:12502">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/root/lab/lab1" local="$PROJECT_DIR$" />
+            <mapping deploy="/home/project" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
