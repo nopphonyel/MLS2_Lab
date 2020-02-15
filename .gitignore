@@ -2,3 +2,13 @@
 *.weights
 
 Classify img ML/cervix.pdf
+
+*.pth
+
+Classify img ML/.idea/workspace.xml
+
+Lab1/.idea/workspace.xml
+
+Lab2/.idea/workspace.xml
+
+Classify img ML/finalize.zip

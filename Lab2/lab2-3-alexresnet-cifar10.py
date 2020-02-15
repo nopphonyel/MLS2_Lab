@@ -20,9 +20,9 @@ trainset = CIFAR10(root='./data', train=True, download=True, transform=preproces
 trainset, valset = random_split(trainset, [40000, 10000])
 testset = CIFAR10(root='./data', train=False, download=True, transform=preprocess)
 
-trainloader = DataLoader(trainset, batch_size=4, shuffle=True, num_workers=2)
-valloader = DataLoader(valset, batch_size=4, shuffle=True, num_workers=2)
-testloader = DataLoader(testset, batch_size=4, shuffle=False, num_workers=2)
+trainloader = DataLoader(trainset, batch_size=1, shuffle=True)
+valloader = DataLoader(valset, batch_size=1, shuffle=True)
+testloader = DataLoader(testset, batch_size=1, shuffle=False)
 
 # Import resnet model
 import torch
