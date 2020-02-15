@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Download/pytorch-yolo-v3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/complete-yolo" vcs="Git" />
   </component>
 </project>
